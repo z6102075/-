@@ -1,0 +1,8 @@
+ <view class="my_header">
+     {{cData}}
+     <view>
+         <slot></slot>
+     </view>
+       
+ </view>
+   
