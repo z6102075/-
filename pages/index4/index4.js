@@ -1,18 +1,16 @@
-// pages/index3/index3.js
+// pages/index4/index4.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    msg:"hello world 1",
-    num:1000,
-    isBoy:true,
-    person:{
-      name:"小红",
-      height:150
-    },
-    title:"这个是新页面index3"
+    isChecked:false,
+    num1:10,
+    num2:1000,
+    str1:"hello",
+    str2:"world",
+    num3:20
   },
 
   /**

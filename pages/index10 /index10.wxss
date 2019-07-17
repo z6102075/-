@@ -1,0 +1,6 @@
+/* pages/index10 /index10.wxss */
+image{
+    width:97%;
+    height: 300px;
+    border:5px solid red;
+}

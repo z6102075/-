@@ -1,0 +1,6 @@
+/* pages/index11 /index11.wxss */
+image{
+    width:97%;
+    height: 92%;
+    border:5px solid rgb(135, 235, 218);
+}

@@ -1,0 +1,5 @@
+<view class="" hover-class="none" hover-stop-propagation="false">
+    <!-- image标签是weib中的img标签和背景图片结合体 -->
+    <image src="../images/1-1.png" mode="aspectFit"></image>
+</view>
+  
