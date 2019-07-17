@@ -1,10 +1,11 @@
 {
   "pages": [
-    "pages/index11 /index11",
-    "pages/index10 /index10",
-    "pages/index9 /index9",
-    "pages/index8 /index8",
-    "pages/index7 /index7",
+   "pages/index12/index12",
+    "pages/index11/index11",
+    "pages/index10/index10",
+    "pages/index9/index9",
+    "pages/index8/index8",
+    "pages/index7/index7",
     "pages/index6/index6",
     "pages/index5/index5",
     "pages/index4/index4",
@@ -12,7 +13,6 @@
     "pages/index2/index2",
     "pages/index/index",
     "pages/logs/logs"
-    
   ],
   "window": {
     "backgroundTextStyle": "dark",

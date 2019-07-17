@@ -1,4 +1,4 @@
-// pages/index11 /index11.js
+// pages/index11/index11 .js
 Page({
 
   /**
